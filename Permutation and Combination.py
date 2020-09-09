@@ -13,9 +13,5 @@ class PnC:
 
     def circular_permutation(self, n):
         return factorial(n - 1)
-
-
-
-
-
-
+    
+    
